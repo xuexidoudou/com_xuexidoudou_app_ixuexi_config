@@ -1,28 +1,6 @@
 {
     "projects": [
         {
-            "index": 0,
-            "title": "主文件",
-            "description": "主文件",
-            "keywords": ["主文件"],
-            "type": "sysconfig",
-            "head_pic": "",
-            "pics":[],
-            "url": "https://codeload.github.com/xuexidoudou/com_xuexidoudou_app_ixuexi_config/zip/refs/heads/main",
-            "file_name": "com_xuexidoudou_app_ixuexi_config-main",
-            "ext": "zip",
-            "org": "程序开发学习大全",
-            "author": "学习豆豆",
-            "email": "xuexidoudou@hotmail.com",
-            "weixin": "",
-            "qq": "",
-            "homepage": "https://github.com/xuexidoudou/com_xuexidoudou_app_ixuexi_config",
-            "config": "config.json",
-            "created_time": "2023/8/18 17:31:00",
-            "last_updated_time": "2023/8/18 17:31:00",
-            "version": "1.0.0"
-        },
-        {
             "index": 1,
             "title": "基本html网页",
             "description": "第一个网页学习样本",
