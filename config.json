@@ -24,7 +24,7 @@
         },
         {
             "index": 2,
-            "title": "塔防",
+            "title": "castle",
             "description": "第一个CocosCreator游戏学习样本。",
             "keywords": ["塔防", "Cocos Creator"],
             "type": "game",
@@ -46,7 +46,7 @@
         },
         {
             "index": 3,
-            "title": "基本html网页",
+            "title": "webtest",
             "description": "第一个网页学习样本",
             "keywords": ["Vue3", "TypeScript"],
             "type": "website",
